@@ -1,15 +1,15 @@
-# Siddi-Vinayaka-Assignment
+# User-authentication-system
 Must to install node.js and [MongoDB Atlas Account](https://www.mongodb.com/cloud/atlas) (for MongoDB Atlas connection)
 
 ## Setup 
 Open your terminal (cmd, powershell, git bash)
 Clone this repository by :
 ```
-git clone https://github.com/Gaurimusmade/Siddi-Vinayaka-Assignment.git
+git clone https://github.com/Gaurimusmade/User-authentication-system.git
 ```
 Enter to the repository folder :
 ```
-cd Siddi-Vinayaka-Assignment
+cd User-authentication-system
 ```
 Install all required dependencies using `npm` or you can also use` yarn`:
 ```
@@ -34,7 +34,7 @@ npm install or yarn install
    PORT = 5001 // choose the port for server to run
    TOKEN_SECRET = "your secret string"
    DB_HOST = "127.0.0.1" //host name
-   DB_DATABASE = "siddi-vinayaka" //database name
+   DB_DATABASE = "User-authentication-system" //database name
 
    ```
 ## How to use 
