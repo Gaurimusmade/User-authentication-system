@@ -39,7 +39,7 @@ npm install or yarn install
    ```
 ## How to use 
 Now it's time to use API endpoints.
-1. Import "Siddi-vinayaka.postman_collection.json" file to postman(find in cloned folder).
+1. Import "User-authentication-system.postman_collection.json" file to postman(find in cloned folder).
 2. setup port variable in postman according to your settings.
 3. start node.js server
 ```
